@@ -1,0 +1,426 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.10)  9 JUL 2021 17:34
+entering extended mode
+**./OS.tex
+(OS.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/elsarticle\elsarti
+cle.cls"
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen134
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count175
+\c@fnote=\count176
+\c@cnote=\count177
+\c@ead=\count178
+\c@author=\count179
+\@eadauthor=\toks15
+\c@affn=\count180
+\absbox=\box45
+\elsarticlehighlightsbox=\box46
+\elsarticlegrabsbox=\box47
+\keybox=\box48
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box49
+\els@boxb=\box50
+\leftMargin=\dimen140
+\@enLab=\toks16
+\@sep=\skip49
+\@@sep=\skip50
+ (OS.spl)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count181
+)
+\splwrite=\write3
+\openout3 = `OS.spl'.
+
+\appnamewidth=\dimen141
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\Times.sty"
+
+LaTeX Warning: You have requested package `Times',
+               but the package provides `times'.
+
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) ("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.st
+y"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count182
+\output=\toks18
+\linenoprevgraf=\count183
+\linenumbersep=\dimen142
+\linenumberwidth=\dimen143
+\c@linenumber=\count184
+\c@pagewiselinenumber=\count185
+\c@LN@truepage=\count186
+\c@internallinenumber=\count187
+\c@internallinenumbers=\count188
+\quotelinenumbersep=\dimen144
+\bframerule=\dimen145
+\bframesep=\dimen146
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty"
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box52
+))
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty"
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count190
+\g__xparse_grabber_int=\count191
+\l__xparse_m_args_int=\count192
+\l__xparse_v_nesting_int=\count193
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.
+tex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+)) (OS.aux)
+\openout1 = `OS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+4.
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen147
+\scratchbox=\box53
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen148
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 148
+.
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 148
+.
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{C:/Users/yosse/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+81.
+
+("C:\Users\yosse\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2] [3]
+<Android Operating System Architecture.png, id=14, 853.1875pt x 519.9425pt>
+File: Android Operating System Architecture.png Graphic file (type png)
+<use Android Operating System Architecture.png>
+Package pdftex.def Info: Android Operating System Architecture.png  used on inp
+ut line 249.
+(pdftex.def)             Requested size: 341.4382pt x 142.2587pt.
+ [4] [5 <./Android Operating System Architecture.png>]
+Overfull \hbox (5.17715pt too wide) in paragraph at lines 287--288
+[]\OT1/ptm/m/n/12 Resource Man-ager: of-fers ac-cess to non-code em-bed-ded too
+ls in-clud-ing strings,
+ []
+
+[6] [7]
+Overfull \hbox (15.88411pt too wide) in paragraph at lines 340--341
+\OT1/ptm/m/n/12 tent() in Pack-age-M-an-ager ob-ject.PackageManager.MATCH[]DEFA
+ULT[]ONLY
+ []
+
+[8]
+<App_launch_1.jpg, id=32, 928.21782pt x 535.2497pt>
+File: App_launch_1.jpg Graphic file (type jpg)
+<use App_launch_1.jpg>
+Package pdftex.def Info: App_launch_1.jpg  used on input line 362.
+(pdftex.def)             Requested size: 369.89253pt x 113.81052pt.
+<App_launch_2.jpg, id=33, 898.10532pt x 444.91219pt>
+File: App_launch_2.jpg Graphic file (type jpg)
+<use App_launch_2.jpg>
+Package pdftex.def Info: App_launch_2.jpg  used on input line 370.
+(pdftex.def)             Requested size: 369.88374pt x 113.80751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+[9 <./App_launch_1.jpg> <./App_launch_2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+<App_launch_3.jpg, id=37, 1089.31969pt x 368.1253pt>
+File: App_launch_3.jpg Graphic file (type jpg)
+<use App_launch_3.jpg>
+Package pdftex.def Info: App_launch_3.jpg  used on input line 380.
+(pdftex.def)             Requested size: 326.79843pt x 110.43843pt.
+[10 <./App_launch_3.jpg>]
+Overfull \hbox (90.39713pt too wide) in paragraph at lines 404--428
+ [] 
+ []
+
+
+Overfull \hbox (8.63261pt too wide) in paragraph at lines 430--432
+[]\OT1/ptm/m/n/12 The sec-ond way to set pri-or-i-ties is to call an-droid.os.P
+rocess.setThreadPriority().
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
+
+ []
+
+
+Overfull \hbox (14.58559pt too wide) in paragraph at lines 460--461
+[]\OT1/ptm/m/n/12 The An-droid ar-chi-tec-ture runs on the idea that any free m
+em-ory is wasted(unused)
+ []
+
+[12] [13]
+<ram1.png, id=51, 452.892pt x 210.7875pt>
+File: ram1.png Graphic file (type png)
+<use ram1.png>
+Package pdftex.def Info: ram1.png  used on input line 512.
+(pdftex.def)             Requested size: 181.15358pt x 84.3135pt.
+<ram2.png, id=52, 449.2785pt x 214.401pt>
+File: ram2.png Graphic file (type png)
+<use ram2.png>
+Package pdftex.def Info: ram2.png  used on input line 521.
+(pdftex.def)             Requested size: 179.7082pt x 85.75887pt.
+ [14 <./ram1.png> <./ram2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
+
+ []
+
+[16]
+<fifo.jpg, id=62, 562.1pt x 295.1025pt>
+File: fifo.jpg Graphic file (type jpg)
+<use fifo.jpg>
+Package pdftex.def Info: fifo.jpg  used on input line 573.
+(pdftex.def)             Requested size: 284.52296pt x 113.81068pt.
+<opr.jpg, id=63, 315.1775pt x 326.21875pt>
+File: opr.jpg Graphic file (type jpg)
+<use opr.jpg>
+Package pdftex.def Info: opr.jpg  used on input line 577.
+(pdftex.def)             Requested size: 284.54202pt x 113.80992pt.
+ [17 <./fifo.jpg>]
+<lru.jpg, id=67, 473.77pt x 312.16624pt>
+File: lru.jpg Graphic file (type jpg)
+<use lru.jpg>
+Package pdftex.def Info: lru.jpg  used on input line 580.
+(pdftex.def)             Requested size: 284.53166pt x 113.80873pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--606
+[]\OT1/ptm/m/n/12 Alabaster, J. (2020). An-droid founder: We aimed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--606
+\OT1/ptm/m/n/12 make a cam-era OS. Re-trieved 6 June 2020, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--606
+\OT1/ptm/m/n/12 https://www.pcworld.com/article/2034723/android-founder-we-aime
+d-
+ []
+
+[18 <./opr.jpg> <./lru.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 607--611
+[]\OT1/ptm/m/n/12 (2020). Re-trieved 6 June 2020, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+[]\OT1/ptm/m/n/12 Menon, M. (2020). An-droid Nougat: Here's why Google
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+\OT1/ptm/m/n/12 names the OS af-ter sweets. Re-trieved 7 June 2020, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+\OT1/ptm/m/n/12 https://indianexpress.com/article/lifestyle/food-wine/from-donu
+t-to-nougat-
+ []
+
+(OS.bbl) [19] (OS.aux) ) 
+Here is how much of TeX's memory you used:
+ 3216 strings out of 481556
+ 51643 string characters out of 2913869
+ 459378 words of memory out of 3000000
+ 18423 multiletter control sequences out of 15000+200000
+ 548889 words of font info for 59 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,34p,849b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/yosse/AppData/Local/Programs/MiKTeX 2.9/fonts
+/enc/dvips/base/8r.enc}<C:/Users/yosse/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/urw/times/utmb8a.pfb><C:/Users/yosse/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/times/utmr8a.pfb><C:/Users/yosse/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on OS.pdf (19 pages, 513794 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

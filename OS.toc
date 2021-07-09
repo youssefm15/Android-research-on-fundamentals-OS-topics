@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}\large {Introduction}}{3}%
+\contentsline {section}{\numberline {2}\large {Basics \& Background}}{4}%
+\contentsline {subsection}{\numberline {2.1}OS structure}{4}%
+\contentsline {subsection}{\numberline {2.2}PROCESS MANAGEMENT}{4}%
+\contentsline {subsection}{\numberline {2.3}Memory management}{5}%
+\contentsline {subsection}{\numberline {2.4}FILE MANAGEMENT}{5}%
+\contentsline {subsection}{\numberline {2.5}I/O MANAGEMENT}{5}%
+\contentsline {subsection}{\numberline {2.6}Virtual Memory}{5}%
+\contentsline {subsection}{\numberline {2.7}Paging}{6}%
+\contentsline {subsection}{\numberline {2.8}Memory-mapped}{6}%
+\contentsline {subsection}{\numberline {2.9}Multitasking}{6}%
+\contentsline {section}{\numberline {3}\large {Android structure}}{7}%
+\contentsline {subsection}{\numberline {3.1}Android Libraries (Native Components)}{7}%
+\contentsline {subsection}{\numberline {3.2}Android Runtime}{8}%
+\contentsline {subsection}{\numberline {3.3}Application Framework}{8}%
+\contentsline {subsection}{\numberline {3.4}Applications}{8}%
+\contentsline {section}{\numberline {4}\large {Process Management}}{9}%
+\contentsline {subsection}{\numberline {4.1}Applications processes}{9}%
+\contentsline {subsection}{\numberline {4.2}Process Start up}{9}%
+\contentsline {section}{\numberline {5}\large {CPU Scheduling Algorithm}}{13}%
+\contentsline {subsection}{\numberline {5.1}JVM thread and process scheduling}{13}%
+\contentsline {section}{\numberline {6}\large {Memory Management}}{15}%
+\contentsline {subsection}{\numberline {6.1}Memory pages}{15}%
+\contentsline {subsection}{\numberline {6.2}low memory management}{16}%
+\contentsline {subsubsection}{\numberline {6.2.1}kernel swap daemon}{16}%
+\contentsline {subsubsection}{\numberline {6.2.2}Low-memory killer}{17}%
+\contentsline {subsection}{\numberline {6.3}Garbage collection}{17}%
+\contentsline {subsubsection}{\numberline {6.3.1}Share memory}{18}%
+\contentsline {section}{\numberline {7}\large {Virtual memory}}{19}%
+\contentsline {subsection}{\numberline {7.1}Page Replacement Algorithm}{19}%
+\contentsline {subsection}{\numberline {7.2}First In First Out (FIFO) algorithm}{20}%
+\contentsline {subsection}{\numberline {7.3}Optimal Page algorithm}{20}%
+\contentsline {subsection}{\numberline {7.4}Least Recently Used}{21}%
+\contentsline {section}{\numberline {8}Conclusion}{21}%
