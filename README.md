@@ -11,3 +11,5 @@
 3- Memory Management Approaches 
 
 4- Virtual Memory Management Algorithms
+
+##Open OS.pdf
